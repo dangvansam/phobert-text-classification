@@ -1,0 +1,1 @@
+{"bos_token": "<s>", "eos_token": "</s>", "unk_token": "<unk>", "sep_token": "</s>", "cls_token": "<s>", "pad_token": "<pad>", "mask_token": "<mask>", "model_max_length": 256, "name_or_path": "vinai/phobert-base"}
