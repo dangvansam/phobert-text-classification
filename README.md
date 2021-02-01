@@ -1,3 +1,4 @@
+# Vietnamese Text Classify with PhoBert
 use PhoBert(base) *https://huggingface.co/vinai/phobert-base* to extract embedding vectors (768 dim) for words in sequence(max_len=256, pad=0)
 # Download PhoBert pretrained model
 download file from: *https://public.vinai.io/PhoBERT_base_transformers.tar.gz* or *https://huggingface.co/vinai/phobert-base*  
